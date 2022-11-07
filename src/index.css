@@ -5,7 +5,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #282c34;
 }
 
 code {
@@ -16,5 +15,4 @@ code {
 header {
   font-size: 2em;
   text-align: center;
-  color: white;
 }
